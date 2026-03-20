@@ -1,16 +1,17 @@
-## Hi there 👋
+## ❯ Attila Tóth
 
-<!--
-**thaodean/thaodean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`CLOUD INFRASTRUCTURE` | `SYSTEMS ARCHITECTURE` | `EDGE COMPUTE`
 
-Here are some ideas to get you started:
+> Note: Primary engineering and deployment pipelines are bound by enterprise NDA. Public graph is intentionally dormant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### // CURRENT_OP
+Architecting a proprietary, highly concurrent commercial system within the **Zig** ecosystem. Focusing heavily on bare-metal performance and next-generation, low-latency web frameworks.
+
+### // STACK
+`Kubernetes` `Docker` `CI/CD` `Zig` `Rust` `Linux Internals`
+
+### // STRATEGY
+Actively exploring seed investments, strategic partnerships, and enterprise collaborations in the high-performance systems space.
+
+### // PING
+`attila@kioken.hu` | Budapest, HU
